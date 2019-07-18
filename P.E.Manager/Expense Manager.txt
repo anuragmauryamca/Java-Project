@@ -1,0 +1,19 @@
+Requirement:
+1.Category Master:User can add/manage categor
+2.Expense Entry (category wise)
+3.Expense List
+4.Report
+	1.Monthly Expense Report
+	2.Yearly Expense Report
+	3.Category Wise Report
+5.User Interface:
+	1.Desktop Application/Using Swing/awt
+	2.Cui:Charcter user interface
+	4.Web Based:Html,css.Bootstrap
+	5.Android App
+6.Database Repository
+	1.jdbc API with Mysql/oracle Database
+ 	2.File Based Repository
+	3.Collection Api
+	4.Cloud Repository
+	
