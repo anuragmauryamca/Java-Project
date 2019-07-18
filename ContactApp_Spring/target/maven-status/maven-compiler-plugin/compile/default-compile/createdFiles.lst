@@ -1,0 +1,13 @@
+net\ezeon\capp\domain\Contact.class
+net\ezeon\capp\service\ContactService.class
+net\ezeon\capp\service\UserBlockedException.class
+net\ezeon\capp\util\test\TestRegisterUser.class
+net\ezeon\capp\util\test\TestJdbctempate.class
+net\ezeon\capp\domain\User.class
+net\ezeon\capp\rm\ContactRowMapper.class
+net\ezeon\capp\service\UserService.class
+net\ezeon\capp\rm\UserRowMapper.class
+net\ezeon\capp\util\test\TestLogin.class
+net\ezeon\capp\exception\UserBlockedException.class
+net\ezeon\capp\service\SpringUtil.class
+net\ezeon\capp\config\SpringConfig.class

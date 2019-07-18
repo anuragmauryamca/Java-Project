@@ -1,0 +1,21 @@
+
+
+
+input{
+    width: 500px;
+    height: 20px;
+    margin:2px;
+    border-right-color: cadetblue;
+    border-radius: 5px;
+    background-color:white;
+   
+}
+
+textArea{
+    width: 500px;
+    height: 40px;
+    margin:2px;
+    border-right-color: cadetblue;
+    border-radius: 5px;
+    background-color:white; 
+}

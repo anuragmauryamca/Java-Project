@@ -1,0 +1,34 @@
+
+
+#tr1{
+    color:red;
+}
+#tr2{
+   background-color: cadetblue;
+ 
+}
+.log{
+    background-color:white;
+    text-align: center;
+    margin: 25px;
+    padding: 15px;
+   font-size: 14px;
+   color: darkred;
+   border-radius: 0px;
+}
+#td1:hover{
+    border-color: aqua;
+    
+   
+    
+}
+#td2:hover{
+    border-color: aqua;
+    
+}
+
+
+body{
+    background-image: url("cop.jpg");
+    
+}
